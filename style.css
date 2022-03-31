@@ -1,0 +1,16 @@
+.topnav{
+    background-color: red;
+    border-radius: 15px;
+    border-color: 5px solid red;
+}
+
+.first{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.text1 .img{
+    height: 50px;
+    width: 50px;
+}
